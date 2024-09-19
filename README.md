@@ -48,7 +48,7 @@ This project revolves around the analysis of a subset of XML syntax, commonly us
         ```
 
 ### Example Usage
-
+**Correct:**
 ```bash
 ./myParser correct.xml
 ```
@@ -57,6 +57,7 @@ Output:
 Parsing completed successfully.
 ```
 
+**Wrong:**
 ```bash
 ./myParser wrong.xml
 ```
